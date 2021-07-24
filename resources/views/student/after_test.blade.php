@@ -1,0 +1,1 @@
+<h1 style="text-align: center; margin-top:250px;" >The {{$test->test_name}} Test got live at: {{date("d-F-Y h:i:s a ", strtotime($test->date_time))}}, so now you can't make any changes in it.</h1>
