@@ -7,7 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p> -->
 
-## About this project
 
 Online Test System is a web-based examination system where quizzes are taken online i.e. through the internet or intranet using a computer system. The purpose of the Online Test System is to take Tests in an efficient manner and no time wasting for checking the paper. The main objective of the Online Test System is to efficiently evaluate the candidate through a fully automated system that not only saves a lot of time but also gives instant results. The system will show results instantly after submitting the test. A teacher has control in the system and is supposed to make a schedule for the Test, add questions to the test and share the test link with the students. The system carries out the examination and auto-grading for multiple choice questions.
   The main objective of the project is to manage the details of Students, Examinations and Results. It manages all the information about the Students and their Results. The purpose of the projectis to build an application program to easily take tests online.
